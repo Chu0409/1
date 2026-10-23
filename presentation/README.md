@@ -1,4 +1,14 @@
-# 芳纶柔性复合材料｜14页论坛汇报
+# 最新：16页完善版
+
+已根据新增资料和汇总图补充定量图表、体系区分及来源说明。
+
+- [16页PPT](v2/aramid_revised_16slides.pptx)
+- [16页PDF](v2/aramid_revised_16slides.pdf)
+- [讲稿、预览与数据来源](v2/README.md)
+
+---
+
+# 旧版：14页研究框架
 
 - [下载 PowerPoint](aramid_presentation.pptx)
 - [查看 PDF](aramid_presentation.pdf)
